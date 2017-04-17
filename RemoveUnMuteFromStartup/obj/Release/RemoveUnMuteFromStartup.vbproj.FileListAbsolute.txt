@@ -1,0 +1,10 @@
+C:\Visual Studio 2008\Projects\RemoveUnMuteFromStartup\RemoveUnMuteFromStartup\bin\Release\RemoveUnMuteFromStartup.exe
+C:\Visual Studio 2008\Projects\RemoveUnMuteFromStartup\RemoveUnMuteFromStartup\bin\Release\RemoveUnMuteFromStartup.pdb
+C:\Visual Studio 2008\Projects\RemoveUnMuteFromStartup\RemoveUnMuteFromStartup\bin\Release\RemoveUnMuteFromStartup.xml
+C:\Visual Studio 2008\Projects\RemoveUnMuteFromStartup\RemoveUnMuteFromStartup\obj\Release\ResolveAssemblyReference.cache
+C:\Visual Studio 2008\Projects\RemoveUnMuteFromStartup\RemoveUnMuteFromStartup\obj\Release\RemoveUnMuteFromStartup.Form1.resources
+C:\Visual Studio 2008\Projects\RemoveUnMuteFromStartup\RemoveUnMuteFromStartup\obj\Release\RemoveUnMuteFromStartup.Resources.resources
+C:\Visual Studio 2008\Projects\RemoveUnMuteFromStartup\RemoveUnMuteFromStartup\obj\Release\RemoveUnMuteFromStartup.vbproj.GenerateResource.Cache
+C:\Visual Studio 2008\Projects\RemoveUnMuteFromStartup\RemoveUnMuteFromStartup\obj\Release\RemoveUnMuteFromStartup.exe
+C:\Visual Studio 2008\Projects\RemoveUnMuteFromStartup\RemoveUnMuteFromStartup\obj\Release\RemoveUnMuteFromStartup.xml
+C:\Visual Studio 2008\Projects\RemoveUnMuteFromStartup\RemoveUnMuteFromStartup\obj\Release\RemoveUnMuteFromStartup.pdb
